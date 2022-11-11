@@ -1,0 +1,97 @@
+/Library
+/Temp
+/Android
+/.vs
+/obj
+/Windows
+/*.apk
+/*.csproj
+/*.sln
+/Logs
+/Email
+/EmailDraft
+.idea
+heu_session.txt
+ig-client.sln.DotSettings.user
+ServerData
+Assets/ThirdEditor/UGUI-Editor/Res
+Res.meta
+/Assets/ThirdEditor/TexturePacker/Editor/SettingsTexturePackerImporter.txt
+/ProjectSettings/GvhProjectSettings.xml
+/Assets/ThirdEditor/TexturePacker/Editor/SettingsTexturePackerImporter.txt.meta
+
+/Assets/StreamingAssets/Config.bytes
+/Assets/StreamingAssets/Config.bytes.meta
+/Assets/StreamingAssets/Hotfix.dll.bytes
+/Assets/StreamingAssets/Hotfix.dll.bytes.meta
+/Assets/StreamingAssets/Hotfix.pdb.bytes
+/Assets/StreamingAssets/Hotfix.pdb.bytes.meta
+*.log
+/Assets/AddressableAssetsData/Android.meta
+/Assets/AddressableAssetsData/Android/addressables_content_state.bin
+/Assets/AddressableAssetsData/Android/addressables_content_state.bin.meta
+/Assets/StreamingAssets/Plugin.xml
+/Assets/StreamingAssets/Plugin.xml.meta
+/Assets/StreamingAssets/log4net.xml
+/Assets/StreamingAssets/log4net.xml.meta
+client.sln.DotSettings.user
+/assetbundles
+/Assets/Temp
+/Assets/Temp.meta
+/Build
+/Assets/StreamingAssets/aa
+/Assets/StreamingAssets/assetbundles
+/Assets/StreamingAssets/assetbundles.meta
+/Packages/packages-lock.json
+UwaProjScan
+UWA
+Tools
+/Assets/Tools.meta
+/Assets/UWA.meta
+/Assets/UwaProjScan.meta
+/PatchServerJS/node_modules
+/Assets/StreamingAssets/build_info
+
+
+/Assets/Editor/CityEditorData/cityeditor.unity
+/Assets/Editor/CityEditorData/cityeditor.unity.meta
+/Assets/POLYGON city pack.meta
+/Assets/POLYGON city pack/Materials.meta
+/Assets/POLYGON city pack/Materials/Colors_buildings.meta
+/Assets/POLYGON city pack/Materials/Colors_buildings/A3.mat
+/Assets/POLYGON city pack/Materials/Colors_buildings/A3.mat.meta
+/Assets/POLYGON city pack/Materials/Material_meshs.meta
+/Assets/POLYGON city pack/Materials/Material_meshs/street 3.mat
+/Assets/POLYGON city pack/Materials/Material_meshs/street 3.mat.meta
+/Assets/POLYGON city pack/Materials/color_windows.meta
+/Assets/POLYGON city pack/Materials/color_windows/Windows no light.mat
+/Assets/POLYGON city pack/Materials/color_windows/Windows no light.mat.meta
+/Assets/POLYGON city pack/Meshes,textures.meta
+/Assets/POLYGON city pack/Meshes,textures/props_FBX.meta
+/Assets/POLYGON city pack/Meshes,textures/props_FBX/Materials.meta
+/Assets/POLYGON city pack/Meshes,textures/props_FBX/Materials/Metal.mat
+/Assets/POLYGON city pack/Meshes,textures/props_FBX/Materials/Metal.mat.meta
+/Assets/POLYGON city pack/Meshes,textures/props_FBX/Materials/light.mat
+/Assets/POLYGON city pack/Meshes,textures/props_FBX/Materials/light.mat.meta
+/Assets/POLYGON city pack/Meshes,textures/props_FBX/street_lamp 1.fbx
+/Assets/POLYGON city pack/Meshes,textures/props_FBX/street_lamp 1.fbx.meta
+/Assets/POLYGON city pack/Meshes,textures/ways_FBX.meta
+/Assets/POLYGON city pack/Meshes,textures/ways_FBX/Materials.meta
+/Assets/POLYGON city pack/Meshes,textures/ways_FBX/Materials/Material.mat
+/Assets/POLYGON city pack/Meshes,textures/ways_FBX/Materials/Material.mat.meta
+/Assets/POLYGON city pack/Meshes,textures/ways_FBX/Street_03.png
+/Assets/POLYGON city pack/Meshes,textures/ways_FBX/Street_03.png.meta
+/Assets/POLYGON city pack/Meshes,textures/ways_FBX/road_up 1.png
+/Assets/POLYGON city pack/Meshes,textures/ways_FBX/road_up 1.png.meta
+/Assets/POLYGON city pack/Meshes,textures/ways_FBX/street_.fbx
+/Assets/POLYGON city pack/Meshes,textures/ways_FBX/street_.fbx.meta
+/Assets/POLYGON city pack/Prefabs.meta
+/Assets/POLYGON city pack/Prefabs/Floor.meta
+/Assets/POLYGON city pack/Prefabs/Floor/Street 3 Prefab.prefab
+/Assets/POLYGON city pack/Prefabs/Floor/Street 3 Prefab.prefab.meta
+/Assets/POLYGON city pack/Prefabs/Lamps.meta
+/Assets/POLYGON city pack/Prefabs/Lamps/street_lamp 1 prefab.prefab
+/Assets/POLYGON city pack/Prefabs/Lamps/street_lamp 1 prefab.prefab.meta
+/Assets/test.unity
+/Assets/test.unity.meta
+Email/
